@@ -1,1 +1,3 @@
 1. This is a line edit - This is just a sample commit to see how it recognizes new files
+
+2. Edit and add - does it show up as two diffs
