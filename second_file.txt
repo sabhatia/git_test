@@ -1,0 +1,1 @@
+This is just a sample commit to see how it recognizes new files
